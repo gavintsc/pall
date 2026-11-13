@@ -1,5 +1,5 @@
 {
-  "launcher": "2.6.1",
+  "launcher": "2.6.2",
   "addon": "2.11.0",
-  "notes": "Resizable sidebar and header."
+  "notes": "Sidebar shrinks cleanly."
 }
