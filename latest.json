@@ -1,5 +1,5 @@
 {
-  "launcher": "2.6.0",
+  "launcher": "2.6.1",
   "addon": "2.11.0",
-  "notes": "New themes and moving backgrounds."
+  "notes": "Resizable sidebar and header."
 }
