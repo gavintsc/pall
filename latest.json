@@ -1,5 +1,5 @@
 {
-  "launcher": "2.5.1",
+  "launcher": "2.5.2",
   "addon": "2.11.0",
-  "notes": "Play page cards now stack with no gaps."
+  "notes": "Tighter card spacing, faster update checks."
 }
