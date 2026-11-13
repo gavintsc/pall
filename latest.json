@@ -1,5 +1,5 @@
 {
-  "launcher": "2.5.3",
+  "launcher": "2.5.4",
   "addon": "2.11.0",
-  "notes": "Cleaner Play card."
+  "notes": "Updates work even if you renamed the launcher."
 }
