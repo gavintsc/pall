@@ -1,5 +1,5 @@
 {
-  "launcher": "2.5.0",
+  "launcher": "2.5.1",
   "addon": "2.11.0",
-  "notes": "Draggable Play cards, one-click addon installs, auto backups, error report."
+  "notes": "Play page cards now stack with no gaps."
 }
