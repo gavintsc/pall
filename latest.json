@@ -1,5 +1,5 @@
 {
-  "launcher": "2.6.2",
+  "launcher": "2.6.3",
   "addon": "2.11.0",
-  "notes": "Sidebar shrinks cleanly."
+  "notes": "Cleaner icon-only sidebar."
 }
